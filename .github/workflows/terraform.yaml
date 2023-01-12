@@ -1,5 +1,5 @@
--name: "terraform Github Actions"
--default:
+name: "terraform Github Actions"
+default:
   run:
     working-directory: "lecture7"
  on:
